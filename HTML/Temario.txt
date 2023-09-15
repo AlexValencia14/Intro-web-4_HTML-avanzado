@@ -1,0 +1,34 @@
+ETIQUETAS EN HTML
+	table --> crea tabla
+		caption --> titulo de la tabla
+		tr --> crea fila
+		th --> columna de encabezado
+		td --> crea columna
+
+
+	form --> Formularios, action="ruta" method="post"
+
+	Tipos de inputs <input type="" name="" placeholder="" min=10 >
+		text
+		number
+		email
+		password
+		date
+		time
+		tel
+		file
+		radio
+
+	label --> etiquetar elementos
+
+	Tipos de botones <button type="">
+		submit --> Enviar
+		reset --> Restablecer
+
+	textarea --> Area de texto, cols="50" rows="5"
+
+
+	
+
+	
+	
